@@ -41,6 +41,6 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 
 ## Credits
 
-[OpenCore](https://github.com/acidanthera/OpenCorePkg)
+Bootloader: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
-[dhckdgjs Opencore Hackintosh settings for Gigabyte Z590 Vision-G](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md)
+Guidance: [dhckdgjs Opencore Hackintosh settings for Gigabyte Z590 Vision-G](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md)
