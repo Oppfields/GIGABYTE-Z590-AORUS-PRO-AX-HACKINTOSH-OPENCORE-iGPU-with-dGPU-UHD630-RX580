@@ -31,10 +31,12 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 
 ## Procedure
 
-OpenCore Install Guide
+OpenCore Install Guide:
+
 https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ 
 
-OpenCore Config: Comet Lake
+OpenCore Config (Comet Lake):
+
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo
 
 ## What Works
