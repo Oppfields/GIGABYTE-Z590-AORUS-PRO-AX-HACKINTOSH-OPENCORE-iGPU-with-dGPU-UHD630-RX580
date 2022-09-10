@@ -55,8 +55,12 @@ BIOS Settings:
 
 ## Credits
 
-Bootloader: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
+Bootloader: 
 
-Guidance: [dhckdgjs Opencore Hackintosh settings for Gigabyte Z590 Vision-G](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md)
+[OpenCore](https://github.com/acidanthera/OpenCorePkg)
+
+Guidance: 
+
+[dhckdgjs Opencore Hackintosh settings for Gigabyte Z590 Vision-G](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md)
 
 [Ohchang's build: Gigabyte Z590 Vision G + i7-10700K + AMD RX580](https://www.tonymacx86.com/threads/ohchangs-build-gigabyte-z590-vision-g-i7-10700k-amd-rx580.310986/) 
