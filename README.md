@@ -15,7 +15,7 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 - Samsung SSD 840 Pro, 128Gb
 - EVGA 650 GQ, ATX power supply
 - HD (1920x1080) DVI, HDMI Monitor
-- Custom open frame case for rack mount case
+- Custom open frame case for rack mount
 - ARCTIC P8 80mm case Fan (x1)
 - ARCTIC P12 120mm case Fan (x3)
 
