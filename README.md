@@ -13,6 +13,8 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
 - Gigabyte Radeon RX 580 Gaming 8G
 - Samsung SSD 840 Pro, 128Gb
+- EVGA 650 GQ
+- HD (1920x1080) DVI, HDMI Monitor
 - Custom open frame case for rack mount case
 
 ## Caution
