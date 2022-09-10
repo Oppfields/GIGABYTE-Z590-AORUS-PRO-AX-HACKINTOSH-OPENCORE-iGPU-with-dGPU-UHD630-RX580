@@ -39,6 +39,8 @@ OpenCore Config (Comet Lake):
 
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html
 
+BIOS Settings:
+
 ## What Works
 
 ## What doesn't works
