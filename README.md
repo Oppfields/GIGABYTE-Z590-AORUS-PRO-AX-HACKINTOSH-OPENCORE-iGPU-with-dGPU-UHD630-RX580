@@ -2,6 +2,8 @@
 
 Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
+10/09/22 – WIP the build boots into the macOS installer but fails 15 mins into the process. This document will track the build process and document changes.
+
 ## Components
 
 - GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F9a with ALC4080 and i225-V)
