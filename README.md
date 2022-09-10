@@ -16,6 +16,8 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 - EVGA 650 GQ
 - HD (1920x1080) DVI, HDMI Monitor
 - Custom open frame case for rack mount case
+- ARCTIC P8 80mm case Fan (x1)
+- ARCTIC P12 120mm case Fan (x3)
 
 ## Caution
 
