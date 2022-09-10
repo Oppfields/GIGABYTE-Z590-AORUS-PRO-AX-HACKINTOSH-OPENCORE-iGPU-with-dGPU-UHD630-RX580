@@ -6,8 +6,13 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
 - GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F9a with ALC4080 and i225-V)
 - Intel® Core™ i5-10600K 4.10GHz (Comet Lake, FCLGA1200)
+- Corsair CMK16GX4M2B3200C16 Vengeance LPX 16 GB (4 x 8 GB)
+- Noctua NH-L12S, Premium Low Profile CPU Cooler with Quiet 120mm PWM Fan
+- 
 
 ## Components: Already owned
+
+- Gigabyte Radeon RX 580 Gaming 8G
 
 ## Caution
 
