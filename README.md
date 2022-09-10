@@ -4,7 +4,7 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
 10/09/22 – WIP the build boots into the macOS installer but fails 15 mins into the process. This document will track the build process and document changes.
 
-Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md) Z590 guide but is focused on the GIGABYTE Z590 AORUS PRO AX motherboard.
+Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md) Z590 guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard.
 
 ## Components
 
