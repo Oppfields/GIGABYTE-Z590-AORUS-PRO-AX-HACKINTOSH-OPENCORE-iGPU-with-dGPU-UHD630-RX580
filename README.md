@@ -12,14 +12,14 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
 BIOS F8, Major vulnerabilities updates, customers are strongly encouraged to update to this release at the earliest.
 
-**Comments**
+## Comments
 
-**Procedure**
+## Procedure
 
-**What Works**
+## What Works
 
-**What doesn't works**
+## What doesn't works
 
-**Summary**
+## Summary
 
-**Updates**
+## Updates
