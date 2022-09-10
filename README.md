@@ -5,6 +5,7 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 ## Components
 
 - GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F9a with ALC4080 and i225-V)
+- Intel® Core™ i5-10600K 4.10GHz (Comet Lake, FCLGA1200)
 
 ## Components: Already owned
 
