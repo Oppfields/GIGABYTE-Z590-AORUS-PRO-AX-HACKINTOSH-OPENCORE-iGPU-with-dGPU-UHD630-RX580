@@ -59,6 +59,10 @@ IO Ports
 	* 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure that Booter -> Quirks -> ResizeAppleGpuBars is set to 0 if this is enabled.
 	* Disable in BIOS
 	* config.plist ResizeAppleGpuBars = -1
+* SATA And RST Configuration
+	* SATA Controller(s) (Enabled)
+	* SATA Mode Selection (AHCI)
+	* Aggressive LPM Support (Disabled)
 
 Miscellaneous
 
