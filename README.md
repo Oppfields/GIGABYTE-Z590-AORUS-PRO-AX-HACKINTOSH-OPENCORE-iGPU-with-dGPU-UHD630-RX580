@@ -38,7 +38,7 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
  
 
 1. Switch to Advanced Mode
-2. <F7> Load the Optomised BIOS default settings
+2. F7 – Load the Optomised BIOS default settings
 
 ### Favorites
 
