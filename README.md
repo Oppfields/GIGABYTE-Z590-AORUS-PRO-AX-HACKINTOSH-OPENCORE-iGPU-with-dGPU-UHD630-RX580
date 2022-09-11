@@ -43,19 +43,26 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 
 ### Favorites (F11)
 
-No change
+* Extreme Memory Profile(X,M.P) (Disabled)
+* CMS Support (Disabled)
+* Secure Boot Mode (Standard)
+* VT-d (Enabled)
+* SATA Controller(s) (Enabled)
 
 ### Tweaker
 
-No change
+* CPU Upgrade (Gaming Mode)
+* Extreme Memory Profile(X.M.P.) (Disabled)
 
 ### Settings
 
 **Platform Power**
 
+* AC Back (Always On)
+
 **IO Ports**
 
-* Internal Graphics (Auto)
+* Internal Graphics (Enabled)
 * Above 4G Decoding (Disabled)
 	* 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure that Booter -> Quirks -> ResizeAppleGpuBars is set to 0 if this is enabled.
 	* Disable in BIOS
