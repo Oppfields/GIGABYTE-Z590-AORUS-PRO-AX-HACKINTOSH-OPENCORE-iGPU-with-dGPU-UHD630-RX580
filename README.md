@@ -8,7 +8,7 @@ Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VI
 
 ## Components
 
-- GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS TBC with ALC4080 and i225-V)
+- GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F8 with ALC4080 and i225-V)
 - Intel® Core™ i5-10600K 4.10GHz (Comet Lake, FCLGA1200)
 - Corsair CMK16GX4M2B3200C16 Vengeance LPX 16 GB (4 x 8 GB)
 - Noctua NH-L12S, Premium Low Profile CPU Cooler with Quiet 120mm PWM Fan
@@ -17,11 +17,12 @@ Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VI
 
 - Gigabyte Radeon RX 580 Gaming 8G
 - Samsung SSD 840 Pro, 128Gb
-- EVGA 650 GQ, ATX power supply
+- Corsair CX600M, ATX power supply
 - HD (1920x1080) DVI, HDMI Monitor
 - Custom open frame case for rack mount
 - ARCTIC P8 80mm case Fan (x1)
 - ARCTIC P12 120mm case Fan (x3)
+- USB keyboard + Mouse
 
 ## Caution
 
@@ -36,6 +37,75 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 	- iMac17,1
 	- iMac18,1
 	- iMac20,1
+
+## BIOS
+ 
+1. Switch to BIOS (DEL)
+2. Check BIOS Ver (F8 or above)
+3. Load the Optimised Defaults (F7)
+4. Switch to Advanced Mode (F2)
+
+### Favorites (F11)
+
+* Extreme Memory Profile(X,M.P) (Disabled)
+* CMS Support (Disabled)
+* Secure Boot Mode (Standard)
+* VT-d (Enabled)
+* SATA Controller(s) (Enabled)
+
+### Tweaker
+
+* CPU Upgrade (Gaming Mode)
+* Extreme Memory Profile(X.M.P.) (Disabled)
+
+### Settings
+
+**Platform Power**
+
+* AC Back (Always On)
+
+**IO Ports**
+
+* Internal Graphics (Enabled)
+* DVMT Pre-Allocated (64M)
+* DVMT Total Gfx Mem (256M, default)
+* Above 4G Decoding (Disabled)
+	* 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure that Booter -> Quirks -> ResizeAppleGpuBars is set to 0 if this is enabled.
+	* Disable in BIOS
+		* config.plist ResizeAppleGpuBars = -1
+* APP Centre Downloads & Install Configuration
+	* APP Centre Download & Install (Disabled)
+* USB Configuration
+	* Legacy Support (Enable)
+	* XHCI Hand-off (Enable)
+	* Mass Storage Support (Enable)
+	* Port 60/64 Emulation (Enabled)
+* SATA And RST Configuration
+	* SATA Controller(s) (Enabled)
+	* SATA Mode Selection (AHCI)
+	* Aggressive LPM Support (Disabled)
+
+**Miscellaneous**
+
+* Intel Platform Trust Technology (PPT) (Disabled)
+* VT-d (Disabled)
+	* I don't need virtualisation, VT-d (can be enabled if you set DisableIoMapper to YES)
+
+### System Info
+
+No change
+
+### Boot
+
+* Boot NumLock State (On)
+* CFG Lock (Disabled)
+	* CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
+* Security Option (System)
+* Windows 10 Features (Windows 10)
+* CMS Support (Disabled)
+	* Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
+* Secure Boot
+	* Preferred Operating Mode (Auto)
 
 ## Procedure
 
