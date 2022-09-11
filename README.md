@@ -67,6 +67,8 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 	* 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure that Booter -> Quirks -> ResizeAppleGpuBars is set to 0 if this is enabled.
 	* Disable in BIOS
 		* config.plist ResizeAppleGpuBars = -1
+* APP Centre Downloads & Install Configuration
+	* APP Centre Download & Install (Disabled)
 * USB Configuration
 	* Legacy Support (Enable)
 	* XHCI Hand-off (Enable)
