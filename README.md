@@ -63,6 +63,8 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 **IO Ports**
 
 * Internal Graphics (Enabled)
+* DVMT Pre-Allocated (64M)
+* DVMT Total Gfx Mem (256M, default)
 * Above 4G Decoding (Disabled)
 	* 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure that Booter -> Quirks -> ResizeAppleGpuBars is set to 0 if this is enabled.
 	* Disable in BIOS
@@ -95,7 +97,7 @@ No change
 * CFG Lock (Disabled)
 	* CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
 * Security Option (System)
-* Windows 10 Features (Windows 10WHQL)
+* Windows 10 Features (Windows 10)
 * CMS Support (Disabled)
 	* Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
 * Secure Boot
