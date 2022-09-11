@@ -17,11 +17,12 @@ Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VI
 
 - Gigabyte Radeon RX 580 Gaming 8G
 - Samsung SSD 840 Pro, 128Gb
-- EVGA 650 GQ, ATX power supply
+- Corsair CX600M, ATX power supply
 - HD (1920x1080) DVI, HDMI Monitor
 - Custom open frame case for rack mount
 - ARCTIC P8 80mm case Fan (x1)
 - ARCTIC P12 120mm case Fan (x3)
+- USB keyboard + Mouse
 
 ## Caution
 
