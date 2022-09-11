@@ -51,11 +51,9 @@ No change
 
 ### Settings
 
-Platform Power
+**Platform Power**
 
-IO Ports
-
-Tip: make a note of the Network MAC address for SMBIOS ROM
+**IO Ports**
 
 * Internal Graphics (Auto)
 * Above 4G Decoding (Disabled)
@@ -72,7 +70,7 @@ Tip: make a note of the Network MAC address for SMBIOS ROM
 	* SATA Mode Selection (AHCI)
 	* Aggressive LPM Support (Disabled)
 
-Miscellaneous
+**Miscellaneous**
 
 * Intel Platform Trust Technology (PPT) (Disabled)
 * VT-d (Disabled)
