@@ -36,21 +36,33 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 
 ## BIOS
  
-1. DEL key on Boot – Switch to BIOS
-2. Switch to Advanced Mode
-3. F7 – Load the Optimised BIOS default settings
+1. Switch to BIOS (DEL)
+2. Check BIOS Ver (F8 or above)
+3. Load the Optimised Defaults (F7)
+4. Switch to Advanced Mode (F2)
 
-### Favorites
+### Favorites (F11)
+
+No change
 
 ### Tweaker
 
-Default / No change
+No change
 
 ### Settings
 
+Platform Power
+IO Ports
+Miscellaneous
+
 ### System Info
 
+No change
+
 ### Boot
+
+CFG Lock (Disabled)
+* CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
 
 ## Procedure
 
