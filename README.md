@@ -113,10 +113,10 @@ OpenCore Config (Comet Lake):
 
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html
 
-* [Choosing the right SMBIOS](https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html#mac-mini)
-	* iMac17,1
-	* iMac18,1
-	* iMac20,1
+[Choosing the right SMBIOS](https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html#mac-mini)
+* iMac17,1
+* iMac18,1
+* iMac20,1
 
 ## What Works
 
