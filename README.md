@@ -55,6 +55,8 @@ Platform Power
 
 IO Ports
 
+Tip: make a note of the Network MAC address for SMBIOS ROM
+
 * Internal Graphics (Auto)
 * Above 4G Decoding (Disabled)
 	* 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure that Booter -> Quirks -> ResizeAppleGpuBars is set to 0 if this is enabled.
@@ -71,6 +73,10 @@ IO Ports
 	* Aggressive LPM Support (Disabled)
 
 Miscellaneous
+
+* Intel Platform Trust Technology (PPT) (Disabled)
+* VT-d (Disabled)
+	* VT-d (can be enabled if you set DisableIoMapper to YES)
 
 ### System Info
 
