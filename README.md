@@ -80,7 +80,7 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 **Miscellaneous**
 
 * Intel Platform Trust Technology (PPT) (Disabled)
-* VT-d (Disabled)
+* VT-d (Enabled)
 	* VT-d (can be enabled if you set DisableIoMapper to YES)
 
 ### System Info
