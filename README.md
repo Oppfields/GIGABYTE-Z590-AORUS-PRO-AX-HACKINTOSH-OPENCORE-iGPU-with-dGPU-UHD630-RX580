@@ -82,7 +82,7 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 **Miscellaneous**
 
 * Intel Platform Trust Technology (PPT) (Disabled)
-* VT-d (Enabled)
+* VT-d (Disabled)
 	* VT-d (can be enabled if you set DisableIoMapper to YES)
 
 ### System Info
@@ -91,10 +91,11 @@ No change
 
 ### Boot
 
+* Boot NumLock State (On)
 * CFG Lock (Disabled)
 	* CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
-* Fast Boot (Disable Link)
-* Windows 10 Features (Windows 10)
+* Security Option (System)
+* Windows 10 Features (Windows 10WHQL)
 * CMS Support (Disabled)
 	* Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
 * Secure Boot
