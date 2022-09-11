@@ -35,10 +35,16 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.8.4
 
 ## BIOS
+ 
+
+1. Switch to Advanced Mode
+2. <F7> Load the Optomised BIOS default settings
 
 ### Favorites
 
 ### Tweaker
+
+Default / No change
 
 ### Settings
 
