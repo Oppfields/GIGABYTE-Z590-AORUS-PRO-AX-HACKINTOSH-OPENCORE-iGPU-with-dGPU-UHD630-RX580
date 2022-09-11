@@ -33,10 +33,6 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 ## Comments
 
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.8.4
-- [Choosing the right SMBIOS](https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html#mac-mini)
-	- iMac17,1
-	- iMac18,1
-	- iMac20,1
 
 ## BIOS
  
@@ -117,7 +113,10 @@ OpenCore Config (Comet Lake):
 
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html
 
-BIOS Settings:
+* [Choosing the right SMBIOS](https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html#mac-mini)
+	* iMac17,1
+	* iMac18,1
+	* iMac20,1
 
 ## What Works
 
