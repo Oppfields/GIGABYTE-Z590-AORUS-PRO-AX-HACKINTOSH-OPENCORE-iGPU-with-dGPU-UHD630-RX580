@@ -94,6 +94,9 @@ No change
 * CMS Support (Disabled)
 	* Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
 
+* Secure Boot
+	* Preferred Operating Mode (Auto)
+
 ## Procedure
 
 OpenCore Install Guide:
