@@ -33,6 +33,18 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.8.4
 
+## BIOS
+
+### Favorites
+
+### Tweaker
+
+### Settings
+
+### System Info
+
+### Boot
+
 ## Procedure
 
 OpenCore Install Guide:
