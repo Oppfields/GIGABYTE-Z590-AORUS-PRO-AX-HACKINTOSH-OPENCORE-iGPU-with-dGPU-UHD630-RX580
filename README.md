@@ -56,6 +56,7 @@ Platform Power
 IO Ports
 
 * Above 4G Decoding (Disabled)
+	* 2020+ BIOS Notes: When enabling Above4G, Resizable BAR Support may become an available on some Z490 and newer motherboards. Please ensure that Booter -> Quirks -> ResizeAppleGpuBars is set to 0 if this is enabled.
 
 Miscellaneous
 
@@ -66,14 +67,14 @@ No change
 ### Boot
 
 * CFG Lock (Disabled)
-	- CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
+	* CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
 
 * Fast Boot (Disable Link)
 
 * Windows 10 Features (Windows 10)
 
 * CMS Support (Disabled)
-	- Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
+	* Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
 
 ## Procedure
 
