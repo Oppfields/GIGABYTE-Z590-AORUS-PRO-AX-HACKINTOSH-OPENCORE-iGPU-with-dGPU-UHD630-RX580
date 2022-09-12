@@ -94,10 +94,10 @@ No change
 ### Boot
 
 * Boot NumLock State (On)
-* CFG Lock (Disabled)
+* CFG Lock (Enabled)
 	* CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
 * Security Option (System)
-* Windows 10 Features (Windows 10)
+* Windows 10 Features (Other OS)
 * CMS Support (Disabled)
 	* Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
 * Secure Boot
