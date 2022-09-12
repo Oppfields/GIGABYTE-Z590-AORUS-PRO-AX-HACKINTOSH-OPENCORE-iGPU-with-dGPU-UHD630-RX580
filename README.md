@@ -65,7 +65,7 @@ WIP:
 **IO Ports**
 
 * Internal Graphics ~~(Enabled)~~ (Disabled)
-	* Disable if using SMBIOS MacProX,1
+	* Disable if using SMBIOS MacPro7,1
 * DVMT Pre-Allocated (64M)
 * DVMT Total Gfx Mem (256M, default)
 * Above 4G Decoding ~~(Enabled)~~ (Disabled)
@@ -129,8 +129,8 @@ WIP:
 1. ~~iMac20,1~~
 2. ~~iMac18,1~~
 3. ~~iMac17,1~~
-4. ~~MacPro7,1~~
-5. MacPro6,1 (working with Intel Core i5-2500 3.30GHz (Sandy Bridge) + RX 580 build)
+4. MacPro7,1
+5. ~~MacPro6,1 (working with Intel Core i5-2500 3.30GHz (Sandy Bridge) + RX 580 build)~~
 
 ## What Works
 
