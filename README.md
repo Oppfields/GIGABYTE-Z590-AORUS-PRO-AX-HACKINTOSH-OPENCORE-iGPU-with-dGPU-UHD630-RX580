@@ -41,6 +41,8 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 3. Load the Optimised Defaults (F7)
 4. Switch to Advanced Mode (F2)
 
+WIP:
+
 ### Favorites (F11)
 
 * Extreme Memory Profile(X,M.P) (Disabled)
