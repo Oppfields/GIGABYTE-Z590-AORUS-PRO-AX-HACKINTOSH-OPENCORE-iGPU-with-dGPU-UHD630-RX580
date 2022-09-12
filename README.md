@@ -138,7 +138,6 @@ WIP:
 * LAN Ethernet
 * Bluetooth
 * Sound
-* macOS 11.7 breaks OC :(
 
 ## Summary
 
