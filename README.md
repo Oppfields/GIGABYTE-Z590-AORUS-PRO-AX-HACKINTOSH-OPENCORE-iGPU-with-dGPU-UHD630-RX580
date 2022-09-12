@@ -2,8 +2,6 @@
 
 Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
-220912-2121 – issues with updating to macOS 11.7 revert to 11.6.8
-
 Note: this build follows [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/) guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard. The build has been tested using Windows 10 and boots correctly with macOS Big Sur the target OS.
 
 ## Components
@@ -95,7 +93,7 @@ No change
 ### Boot
 
 * Boot NumLock State (On)
-* CFG Lock (Enabled)
+* CFG Lock (Disabled)
 	* CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
 * Security Option (System)
 * Windows 10 Features (Other OS)
@@ -132,6 +130,7 @@ WIP:
 
 ## What Works
 
+* macOS 11.7
 * LAN Wireless
 
 ## What doesn't works
@@ -144,6 +143,8 @@ WIP:
 ## Summary
 
 ## Updates
+
+The original install was macOS 11.6.8 which was updated to 11.7 using the Apple System Preferences updater.
 
 ## Credits
 
