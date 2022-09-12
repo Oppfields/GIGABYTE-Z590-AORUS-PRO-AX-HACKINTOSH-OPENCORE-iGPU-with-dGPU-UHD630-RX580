@@ -64,12 +64,12 @@ WIP:
 
 **IO Ports**
 
-* Internal Graphics (Disabled)
-* DVMT Pre-Allocated (64M, set when Enabled)
-* DVMT Total Gfx Mem (256M, default)
+* Internal Graphics (Enabled)
+* DVMT Pre-Allocated (64M)
+* DVMT Total Gfx Mem (256M)
 * Above 4G Decoding (Disabled)
 	* Re-Size BAR Support (Disabled, set when Enabled)
-		* config.plist ResizeAppleGpuBars = -1
+		* config.plist ResizeAppleGpuBars = -1 **(220912-1324 CHECK)**
 	* IOAPCI 24-119 Entries (Disabled, set when Enabled)
 * APP Centre Downloads & Install Configuration
 	* APP Centre Download & Install (Disabled)
