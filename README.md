@@ -4,7 +4,7 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
 10/09/22 – WIP the build boots into the macOS installer but fails 15 mins into the process. This document will track the build process and document changes. The target OS is macOS Big Sur.
 
-Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md) Z590 guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard.
+Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md) Z590 guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard. The build has been tested using Windows 10 and boots correctly.
 
 ## Components
 
@@ -40,6 +40,8 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 2. Check BIOS Ver (F8 or above)
 3. Load the Optimised Defaults (F7)
 4. Switch to Advanced Mode (F2)
+
+WIP:
 
 ### Favorites (F11)
 
@@ -105,15 +107,27 @@ No change
 
 ## Procedure
 
-OpenCore Install Guide:
+**OpenCore Install Guide**
 
-https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ 
+Always refer to the OpenCore install guide for up to date instructions.
 
-OpenCore Config (Comet Lake):
+https://dortania.github.io/OpenCore-Install-Guide/
+
+**OpenCore Config (Comet Lake)**
 
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html
 
-BIOS Settings:
+**Choosing the right SMBIOS**
+
+With this combination of i5 CPU and RX580 GPU the SMBIOS choice is not simple. iMac20,1 supports Comet Lake CPU + Radeon Pro 5300, MacPro7,1 supports Cascade Lake-W CPU + Radeon Pro 580X. The advice is to start with a SMBIOS which support your CPU.
+
+https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
+
+WIP:
+
+1. ~~iMac20,1~~
+2. iMac18,1
+3. ~~iMac17,1~~
 
 ## What Works
 
@@ -134,3 +148,5 @@ Guidance:
 [dhckdgjs Opencore Hackintosh settings for Gigabyte Z590 Vision-G](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md)
 
 [Ohchang's build: Gigabyte Z590 Vision G + i7-10700K + AMD RX580](https://www.tonymacx86.com/threads/ohchangs-build-gigabyte-z590-vision-g-i7-10700k-amd-rx580.310986/) 
+
+[UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/)
