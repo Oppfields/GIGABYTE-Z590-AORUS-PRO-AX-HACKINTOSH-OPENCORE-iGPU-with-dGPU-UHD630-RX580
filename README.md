@@ -48,7 +48,7 @@ WIP:
 * Extreme Memory Profile(X,M.P) (Disabled)
 * CMS Support (Disabled)
 * Secure Boot Mode (Standard)
-* VT-d (Enabled)
+* VT-d (Disabled, not required for this build)
 * SATA Controller(s) (Enabled)
 
 ### Tweaker
@@ -64,13 +64,13 @@ WIP:
 
 **IO Ports**
 
-* Internal Graphics (Enabled) ~~(Disabled)~~
-* DVMT Pre-Allocated (64M)
+* Internal Graphics (Disabled)
+* DVMT Pre-Allocated (64M, set when Enabled)
 * DVMT Total Gfx Mem (256M, default)
-* Above 4G Decoding ~~(Enabled)~~ (Disabled)
-	* ~~Re-Size BAR Support (Disabled)~~
+* Above 4G Decoding (Disabled)
+	* Re-Size BAR Support (Disabled, set when Enabled)
 		* config.plist ResizeAppleGpuBars = -1
-	* ~~IOAPCI 24-119 Entries (Disabled)~~
+	* IOAPCI 24-119 Entries (Disabled, set when Enabled)
 * APP Centre Downloads & Install Configuration
 	* APP Centre Download & Install (Disabled)
 * USB Configuration
@@ -86,7 +86,7 @@ WIP:
 **Miscellaneous**
 
 * Intel Platform Trust Technology (PPT) (Disabled)
-* VT-d (Enabled)
+* VT-d (Disabled)
 
 ### System Info
 
@@ -132,7 +132,11 @@ WIP:
 
 ## What Works
 
+* LAN Wireless
+
 ## What doesn't works
+
+* LAN Ethernet
 
 ## Summary
 
