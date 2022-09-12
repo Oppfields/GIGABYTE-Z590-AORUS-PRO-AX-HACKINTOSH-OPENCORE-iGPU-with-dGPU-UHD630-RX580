@@ -121,6 +121,8 @@ With this combination of i5 CPU and RX580 GPU the SMBIOS choice is not simple. i
 
 https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
 
+WIP:
+
 1. iMac20,1
 2. ~~iMac17,1~~
 3. iMac18,1
