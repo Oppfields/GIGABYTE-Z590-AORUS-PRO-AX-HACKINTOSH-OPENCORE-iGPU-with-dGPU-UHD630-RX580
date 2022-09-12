@@ -66,7 +66,7 @@ WIP:
 * DVMT Pre-Allocated (64M)
 * DVMT Total Gfx Mem (256M)
 * Onboard LAN Controller (Disabled)
-	* **Fails to boot to macOS if Enabled**
+	* **Fails to boot macOS if Enabled**
 * Above 4G Decoding (Disabled)
 	* Re-Size BAR Support (Disabled, set when Enabled)
 		* config.plist ResizeAppleGpuBars = -1 **(220912-1324 CHECK)**
