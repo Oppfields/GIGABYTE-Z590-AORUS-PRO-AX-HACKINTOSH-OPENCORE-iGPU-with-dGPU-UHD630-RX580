@@ -64,6 +64,8 @@ WIP:
 
 **IO Ports**
 
+220912-1037 LAN disabled for install
+
 * Internal Graphics ~~(Enabled)~~ (Disabled)
 	* Disable if using SMBIOS MacPro7,1
 * DVMT Pre-Allocated (64M)
