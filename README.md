@@ -2,7 +2,7 @@
 
 Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
-220912-1153 – Booting into install, 2nd phase running.
+220912-2121 – issues with updating to macOS 11.7 revert to 11.6.8
 
 Note: this build follows [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/) guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard. The build has been tested using Windows 10 and boots correctly with macOS Big Sur the target OS.
 
