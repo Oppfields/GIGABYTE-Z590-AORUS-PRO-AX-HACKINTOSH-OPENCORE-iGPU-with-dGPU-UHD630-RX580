@@ -64,9 +64,7 @@ WIP:
 
 **IO Ports**
 
-220912-1037 LAN disabled for install
-
-* Internal Graphics ~~(Enabled)~~ (Disabled)
+* Internal Graphics (Enabled) ~~(Disabled)~~
 * DVMT Pre-Allocated (64M)
 * DVMT Total Gfx Mem (256M, default)
 * Above 4G Decoding ~~(Enabled)~~ (Disabled)
@@ -88,8 +86,7 @@ WIP:
 **Miscellaneous**
 
 * Intel Platform Trust Technology (PPT) (Disabled)
-* VT-d (Disabled)
-	* I don't need virtualisation, VT-d (can be enabled if you set DisableIoMapper to YES)
+* VT-d (Enabled)
 
 ### System Info
 
