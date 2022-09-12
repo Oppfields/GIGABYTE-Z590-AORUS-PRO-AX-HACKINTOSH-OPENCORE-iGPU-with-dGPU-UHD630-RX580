@@ -105,18 +105,25 @@ No change
 
 ## Procedure
 
-OpenCore Install Guide:
+**OpenCore Install Guide**
+
+Always refer to the OpenCore install guide for up to date instructions.
+
 https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ 
 
-OpenCore Config (Comet Lake):
+**OpenCore Config (Comet Lake)**
+
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html
 
-Choosing the right SMBIOS:
+**Choosing the right SMBIOS**
+
+With this combination of i5 CPU and RX580 GPU the SMBIOS choice is not simple. iMac20,1 supports Comet Lake CPU + Radeon Pro 5300, MacPro7,1 supports Cascade Lake-W CPU + Radeon Pro 580X. The advice is to start with a SMBIOS which support your CPU.
+
 https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
 
-* ~~iMac17,1~~
-* iMac18,1
-* iMac20,1
+1. iMac20,1
+2. ~~iMac17,1~~
+3. iMac18,1
 
 ## What Works
 
