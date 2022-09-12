@@ -111,7 +111,7 @@ No change
 
 Always refer to the OpenCore install guide for up to date instructions.
 
-https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ 
+https://dortania.github.io/OpenCore-Install-Guide/
 
 **OpenCore Config (Comet Lake)**
 
@@ -125,7 +125,7 @@ https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
 
 WIP:
 
-1. iMac20,1
+1. ~~iMac20,1~~
 2. ~~iMac17,1~~
 3. iMac18,1
 
