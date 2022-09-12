@@ -126,8 +126,8 @@ https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
 WIP:
 
 1. ~~iMac20,1~~
-2. ~~iMac17,1~~
-3. iMac18,1
+2. iMac18,1
+3. ~~iMac17,1~~
 
 ## What Works
 
