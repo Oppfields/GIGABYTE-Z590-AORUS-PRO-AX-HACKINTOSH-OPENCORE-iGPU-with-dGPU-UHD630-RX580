@@ -144,10 +144,6 @@ WIP:
 
 ## Credits
 
-Bootloader: 
+Bootloader: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
-[OpenCore](https://github.com/acidanthera/OpenCorePkg)
-
-Guidance: 
-
-[UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/)
+Guidance: [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/)
