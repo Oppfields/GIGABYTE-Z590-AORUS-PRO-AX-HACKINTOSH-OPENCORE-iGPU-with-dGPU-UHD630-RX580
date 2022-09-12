@@ -126,8 +126,10 @@ https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
 WIP:
 
 1. ~~iMac20,1~~
-2. iMac18,1
+2. ~~iMac18,1~~
 3. ~~iMac17,1~~
+4. MacPro7,1
+5. MacPro6,1 (working with Intel Core i5-2500 3.30GHz (Sandy Bridge) + RX 580 build)
 
 ## What Works
 
