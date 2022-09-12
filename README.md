@@ -69,7 +69,7 @@ WIP:
 	* **Fails to boot macOS if Enabled**
 * Above 4G Decoding (Disabled)
 	* Re-Size BAR Support (Disabled, set when Enabled)
-		* config.plist ResizeAppleGpuBars = -1 **(220912-1324 CHECK)**
+		* config.plist ResizeAppleGpuBars = -1
 	* IOAPCI 24-119 Entries (Disabled, set when Enabled)
 * APP Centre Downloads & Install Configuration
 	* APP Centre Download & Install (Disabled)
