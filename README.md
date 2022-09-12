@@ -131,11 +131,11 @@ WIP:
 ## What Works
 
 * macOS 11.7
-* LAN Wireless
+* Wireless LAN
 
 ## What doesn't works
 
-* LAN Ethernet
+* Wired Lan (Ethernet)
 * Bluetooth
 * Sound
 
