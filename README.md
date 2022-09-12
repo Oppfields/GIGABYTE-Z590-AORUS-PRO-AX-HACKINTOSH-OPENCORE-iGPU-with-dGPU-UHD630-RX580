@@ -64,7 +64,8 @@ WIP:
 
 **IO Ports**
 
-* Internal Graphics (Enabled)
+* Internal Graphics ~~(Enabled)~~ (Disabled)
+	* Disable if using SMBIOS MacProX,1
 * DVMT Pre-Allocated (64M)
 * DVMT Total Gfx Mem (256M, default)
 * Above 4G Decoding ~~(Enabled)~~ (Disabled)
