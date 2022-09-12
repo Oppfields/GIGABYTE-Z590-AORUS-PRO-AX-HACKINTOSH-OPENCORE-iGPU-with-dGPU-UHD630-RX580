@@ -2,9 +2,9 @@
 
 Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
 
-10/09/22 – WIP the build boots into the macOS installer but fails 15 mins into the process. This document will track the build process and document changes. The target OS is macOS Big Sur.
+220912-1153 – Booting into install, 2nd phase running.
 
-Note: this build follows [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md) Z590 guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard. The build has been tested using Windows 10 and boots correctly.
+Note: this build follows [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/) Z590 guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard. The build has been tested using Windows 10 and boots correctly with macOS Big Sur the target OS.
 
 ## Components
 
@@ -127,8 +127,8 @@ https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
 
 WIP:
 
-1. iMac20,1
-2. ~~iMac18,1~~
+1. ~~iMac20,1~~
+2. iMac18,1
 3. ~~iMac17,1~~
 4. ~~MacPro7,1~~
 5. ~~MacPro6,1 (working with Intel Core i5-2500 3.30GHz (Sandy Bridge) + RX 580 build)~~
@@ -148,9 +148,5 @@ Bootloader:
 [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
 Guidance: 
-
-[dhckdgjs Opencore Hackintosh settings for Gigabyte Z590 Vision-G](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md)
-
-[Ohchang's build: Gigabyte Z590 Vision G + i7-10700K + AMD RX580](https://www.tonymacx86.com/threads/ohchangs-build-gigabyte-z590-vision-g-i7-10700k-amd-rx580.310986/) 
 
 [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/)
