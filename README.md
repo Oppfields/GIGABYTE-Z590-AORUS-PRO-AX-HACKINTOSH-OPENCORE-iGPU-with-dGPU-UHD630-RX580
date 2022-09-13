@@ -58,7 +58,12 @@ WIP:
 
 **Platform Power**
 
-* AC Back (Always On)
+* ErP (Disabled)
+* Soft-Off by PWR-BTTN (Instant-Off)
+* Resume by Alarm (Disabled)
+* Power Loading (Auto)
+* RC6(Render Standby) (Enabled)
+* AC Back (Always Off)
 
 **IO Ports**
 
