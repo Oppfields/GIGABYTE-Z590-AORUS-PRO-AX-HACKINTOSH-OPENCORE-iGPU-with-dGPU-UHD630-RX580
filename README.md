@@ -67,6 +67,7 @@ WIP:
 * DVMT Total Gfx Mem (256M)
 * Onboard LAN Controller (Disabled)
 	* **Fails to boot macOS if Enabled**
+	* Intel(R) Ethernet Controller (This sub-menu provides information on LAN configuration and related configuration options.) Change settings in BIOS or macOS to manually specify the connection to be 1000 BaseT. It has been reported that the 2.5 Gbps speeds could cause issues with slower switches ([ref](https://www.tonymacx86.com/threads/success-big-sur-11-2-3-gigabyte-z590-aorus-elite-ax-rev-1-0-intel-core-i7-10700k-intel-uhd-630-msi-rx-580-8gb.311880/)).
 * Above 4G Decoding (Disabled)
 	* Re-Size BAR Support (Disabled, set when Enabled)
 		* config.plist ResizeAppleGpuBars = -1
