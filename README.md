@@ -6,8 +6,8 @@ Note: this build follows [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build]
 
 ## Components
 
-- GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F8 with ALC4080 and i225-V)
-- Intel® Core™ i5-10600K 4.10GHz (Comet Lake, FCLGA1200)
+- [GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F8 with ALC4080 and i225-V)](https://www.gigabyte.com/uk/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf)
+- [Intel® Core™ i5-10600K 4.10GHz (Comet Lake, FCLGA1200)](https://www.intel.com/content/www/us/en/products/sku/199311/intel-core-i510600k-processor-12m-cache-up-to-4-80-ghz/specifications.html)
 - Corsair CMK16GX4M2B3200C16 Vengeance LPX 16 GB (4 x 8 GB)
 - Noctua NH-L12S, Premium Low Profile CPU Cooler with Quiet 120mm PWM Fan
 
