@@ -28,7 +28,7 @@ Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTO
 
 ## Comments
 
-- [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.8.0 (following [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/) guide)
+- [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.8.4
 
 ## BIOS
  
