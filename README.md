@@ -138,7 +138,7 @@ Current: iMac20,1 (16/09/22)
 
 ## What doesn't works
 
-* Coloured screen on shutdown?
+* AirDrop
 
 ## Summary
 
