@@ -1,6 +1,6 @@
 # GIGABYTE-Z590-AORUS-PRO-AX-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580
 
-Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0) running macOS Big Sur 11.7 (16/09/22) and is based on  [Arrnav, Gigabyte Z590 Aorus Pro AX - 11900k - 6800XT](https://github.com/Arrnav/Gigabyte-Z590-Aorus-Pro-AX-11900k-6800XT-Opencore) and other Z590 builds.
+Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0) running macOS Big Sur 11.7 (16/09/22) and is based on  [Arrnav, Gigabyte Z590 Aorus Pro AX - 11900k - 6800XT](https://github.com/Arrnav/Gigabyte-Z590-Aorus-Pro-AX-11900k-6800XT-Opencore) and other Z590 builds. The main difference is the choice of lower spec CPU.
 
 ## Components
 
