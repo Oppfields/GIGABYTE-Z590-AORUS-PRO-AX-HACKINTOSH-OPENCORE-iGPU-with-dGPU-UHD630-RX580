@@ -26,6 +26,8 @@ The downloads page for the motherboard advises using BIOS F8. This is a major vu
 
 Note from [dhckdgjs](https://github.com/dhckdgjs/GIGABYTE-Z590-VISION-G-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580/blob/main/README.md): GIGABYTE Z590 Vision-G M/B(BIOS F2) CAN NOT BOOT with GIGABYTE RX580 MINING or GAMING. (Compatibility issue)
 
+It is highly recommended to boot into Windows and map your USB ports before installing macOS. Using windows is the easy route.
+
 ## Comments
 
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.8.4
@@ -69,7 +71,6 @@ WIP:
 * DVMT Pre-Allocated (64M)
 * DVMT Total Gfx Mem (256M)
 * Onboard LAN Controller (Disabled)
-	* **WIP macOS fails to boot if Enabled**
 * Above 4G Decoding (Disabled)
 	* Re-Size BAR Support (Disabled, set when Enabled)
 		* config.plist ResizeAppleGpuBars = -1
