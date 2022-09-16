@@ -1,8 +1,6 @@
 # GIGABYTE-Z590-AORUS-PRO-AX-HACKINTOSH-OPENCORE-iGPU-with-dGPU-UHD630-RX580
 
-Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0)
-
-Note: this build follows [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/) guide but is specifically focused on the GIGABYTE Z590 AORUS PRO AX motherboard. The build has been tested using Windows 10 and boots correctly with macOS Big Sur the target OS.
+Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0) running macOS Big Sur 11.7 (16/09/22) and is based on  [Arrnav, Gigabyte Z590 Aorus Pro AX - 11900k - 6800XT](https://github.com/Arrnav/Gigabyte-Z590-Aorus-Pro-AX-11900k-6800XT-Opencore) and other Z590 builds.
 
 ## Components
 
@@ -152,4 +150,4 @@ The original install was macOS 11.6.8 which was updated to 11.7 using the Apple 
 
 Bootloader: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
-Guidance: [UtterDisbelief's 20th - Z590 ITX, i5 Comet Lake Build](https://www.tonymacx86.com/threads/utterdisbelief-20-itx-gigabyte-z590i-i5-10600k-32gb-rx560.321503/)
+Guidance: [Arrnav, Gigabyte Z590 Aorus Pro AX - 11900k - 6800XT](https://github.com/Arrnav/Gigabyte-Z590-Aorus-Pro-AX-11900k-6800XT-Opencore)
