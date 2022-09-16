@@ -4,8 +4,8 @@ Opencore Hackintosh settings for Gigabyte Z590 AORUS PRO AX (rev. 1.0) running m
 
 ## Components
 
-- GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F8 with ALC4080 and i225-V)
-- Intel® Core™ i5-10600K 4.10GHz (Comet Lake, FCLGA1200)
+- GIGABYTE Z590 AORUS PRO AX (rev, 1.0, BIOS F8 with ALC4080 and i225-V) [(product page)](https://www.gigabyte.com/uk/Motherboard/Z590-AORUS-PRO-AX-rev-10#kf)
+- Intel® Core™ i5-10600K 4.10GHz (Comet Lake, FCLGA1200 [(product page)](https://www.intel.com/content/www/us/en/products/sku/199311/intel-core-i510600k-processor-12m-cache-up-to-4-80-ghz/specifications.html)
 - Corsair CMK16GX4M2B3200C16 Vengeance LPX 16 GB (4 x 8 GB)
 - Noctua NH-L12S, Premium Low Profile CPU Cooler with Quiet 120mm PWM Fan
 
@@ -56,7 +56,12 @@ WIP:
 
 **Platform Power**
 
-* AC Back (Always On)
+* ErP (Disabled)
+* Soft-Off by PWR-BTTN (Instant-Off)
+* Resume by Alarm (Disabled)
+* Power Loading (Auto)
+* RC6(Render Standby) (Enabled)
+* AC Back (Always Off)
 
 **IO Ports**
 
@@ -64,8 +69,7 @@ WIP:
 * DVMT Pre-Allocated (64M)
 * DVMT Total Gfx Mem (256M)
 * Onboard LAN Controller (Disabled)
-	* **Fails to boot macOS if Enabled**
-	* Intel(R) Ethernet Controller (This sub-menu provides information on LAN configuration and related configuration options.) Change settings in BIOS or macOS to manually specify the connection to be 1000 BaseT. It has been reported that the 2.5 Gbps speeds could cause issues with slower switches ([ref](https://www.tonymacx86.com/threads/success-big-sur-11-2-3-gigabyte-z590-aorus-elite-ax-rev-1-0-intel-core-i7-10700k-intel-uhd-630-msi-rx-580-8gb.311880/)).
+	* **WIP macOS fails to boot if Enabled**
 * Above 4G Decoding (Disabled)
 	* Re-Size BAR Support (Disabled, set when Enabled)
 		* config.plist ResizeAppleGpuBars = -1
