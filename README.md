@@ -126,24 +126,19 @@ With this combination of i5 CPU and RX580 GPU the SMBIOS choice is not simple. i
 
 https://caizhiyuan.gitee.io/opencore-install-guide/extras/smbios-support.html
 
-WIP:
-
-1. ~~iMac20,1~~
-2. iMac18,1
-3. ~~iMac17,1~~
-4. ~~MacPro7,1~~
-5. ~~MacPro6,1 (working with Intel Core i5-2500 3.30GHz (Sandy Bridge) + RX 580 build)~~
+Current: iMac20,1 (16/09/22)
 
 ## What Works
 
 * macOS 11.7
 * Wireless LAN
+* Wired LAN
+* Sound (integrated USB sound card )
+* Sleep/wake
 
 ## What doesn't works
 
-* Wired Lan (Ethernet)
-* Bluetooth
-* Sound
+* Coloured screen on shutdown?
 
 ## Summary
 
