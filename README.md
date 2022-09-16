@@ -142,6 +142,8 @@ Current: iMac20,1 (16/09/22)
 
 ## Summary
 
+16/09/22 – In testing mode and will add EFI files when satisfied the build is stable.
+
 ## Updates
 
 The original install was macOS 11.6.8 which was updated to 11.7 using the Apple System Preferences updater.
